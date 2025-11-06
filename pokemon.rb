@@ -153,6 +153,7 @@ puts "2. How To Play"
 puts "3. View Pokemon Types"
 puts "4. Credit"
 puts "5. Exit"
+puts "6. invalid choice test"
 print "Enter your choice: "
 choice = gets.chomp.to_i
 
